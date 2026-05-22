@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <iomanip>
-using namespace std;
+using namespace std
 
 struct Booking {
     int id;
